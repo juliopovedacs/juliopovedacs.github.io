@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Julio Poveda"
-  avatar           : "image.png"
+  avatar           : "image.jpg"
   bio              : "Ph.D. student, Computer Science, University of Maryland"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=LHnNHuAAAAAJ"
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://juliopovedacs.github.io"
+  github           : "juliopovedacs"
   google_plus      :
   keybase          :
   instagram        :
