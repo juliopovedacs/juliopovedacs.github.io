@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Ph.D. student in Computer Science at the University of Maryland. I study the security and privacy needs of at-risk populations like survivors of intimate partner violence.
+I am a Ph.D. student in Computer Science at the University of Maryland. I study the security and privacy needs of at-risk populations like survivors of intimate partner violence.
