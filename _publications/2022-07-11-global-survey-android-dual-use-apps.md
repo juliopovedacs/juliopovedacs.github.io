@@ -7,6 +7,6 @@ excerpt: 'Intimate partner surveillance (IPS) is a global issue. We studied the 
 date: 2022-07-11
 venue: 'PoPETS'
 paperurl: 'https://juliopovedacs.github.io/files/popets-2022.pdf'
-citation: 'Almansoori, Majed, Gallardo, Andrea, Poveda, Julio, Ahmed, Adil and Chatterjee, Rahul. "A Global Survey of Android Dual-Use Applications Used in Intimate Partner Surveillance" Proceedings on Privacy Enhancing Technologies, vol.2022'
+citation: 'Almansoori, M., Gallardo, A., Poveda, J., Ahmed, A., and Chatterjee, R. "A Global Survey of Android Dual-Use Applications Used in Intimate Partner Surveillance". Proceedings on Privacy Enhancing Technologies. 2022.'
 ---
 Intimate partner surveillance (IPS) is a global issue. We studied the prevalence of Android dual-use applications (apps that have a legitimate purpose but are used for IPS) in multiple languages.
