@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at the University of Maryland. I do research security and privacy, as well as in technology abuse.
+I am a Ph.D. student in Computer Science at the University of Maryland. I do research in security and privacy, as well as in technology abuse.
