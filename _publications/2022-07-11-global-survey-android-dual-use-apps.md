@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2022-07-11-global-survey-android-dual-use-apps
 excerpt: 'Majed Almansoori, Andrea Gallardo, Julio Poveda, Adil Ahmed, Rahul Chatterjee. In Proceedings on Privacy Enhancing Technologies. 2022.'
 date: 2022-07-11
+venue: 'Privacy Enhancing Technologies'
 paperurl: 'https://juliopovedacs.github.io/files/popets-2022.pdf'
 
 ---
