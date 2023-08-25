@@ -10,4 +10,4 @@ paperurl: 'https://juliopovedacs.github.io/files/popets-2022.pdf'
 ---
 Intimate partner surveillance (IPS) is a global issue. We studied the prevalence of Android dual-use applications (apps that have a legitimate purpose but are used for IPS) in multiple languages.
 
-[More details](https://juliopovedacs.github.io/files/popets-2022.pdf)
+[More details](https://juliopovedacs.github.io/files/PETS_2022.pdf)
